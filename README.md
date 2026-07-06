@@ -38,7 +38,7 @@ The goal is not only to predict which customers are likely to churn but also to 
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Programming
 
@@ -69,7 +69,7 @@ The goal is not only to predict which customers are likely to churn but also to 
 
 ---
 
-# 📈 Project Workflow
+#  Project Workflow
 
 ```text
 Raw Dataset
@@ -120,7 +120,7 @@ The analysis revealed several clear churn patterns that informed both feature en
 
 ---
 
-# ⚙ Feature Engineering
+#  Feature Engineering
 
 To improve model performance and business interpretability, several custom features were created.
 
@@ -169,7 +169,7 @@ Flags customers combining multiple churn risk factors:
 
 ---
 
-# 🤖 Machine Learning Models
+# Machine Learning Models
 
 Two supervised learning algorithms were trained and compared.
 
