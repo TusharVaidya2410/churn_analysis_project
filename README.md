@@ -302,7 +302,7 @@ An interactive dashboard was developed to help business users explore churn beha
 
 **Tushar Ravindra Vaidya**
 24je0471
-B.Tech Mining Engineering
-Indian Institute of Technology (ISM), Dhanbad
 
-cture will make your repository look much more polished and engaging than text alone.
+B.Tech Mining Engineering
+
+Indian Institute of Technology (ISM), Dhanbad
